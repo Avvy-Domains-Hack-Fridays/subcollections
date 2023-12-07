@@ -3,6 +3,7 @@
   "names": [
     "apple.avax",
     "banana.avax",
-    "cherry.avax"
-  ]
+    "cherries.avax"
+  ],
+  "ref": "refcode"
 }
